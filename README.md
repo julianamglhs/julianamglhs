@@ -35,4 +35,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-ori
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img align="center" alt="Playwright" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg">
+<img align="center" alt="Vitest" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg">
 </div>
