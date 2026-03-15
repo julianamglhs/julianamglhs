@@ -8,14 +8,13 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           user: julianamglhs
+          token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           base: header, activity, community, repositories
           config_timezone: America/Sao_Paulo
