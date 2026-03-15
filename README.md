@@ -43,21 +43,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-ori
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=julianamglhs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianamglhs&layout=compact&langs_count=8&theme=tokyonight"/>
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=julianamglhs&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianamglhs&layout=compact&theme=tokyonight"/>
 </p>
-<p align="center">
-  <img src="./github-metrics.svg" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julianamglhs/julianamglhs/output/github-contribution-grid-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/julianamglhs/julianamglhs/output/github-contribution-grid-snake.svg">
