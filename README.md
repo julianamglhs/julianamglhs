@@ -46,8 +46,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-ori
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=julianamglhs&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianamglhs&layout=compact&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=julianamglhs&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianamglhs&layout=compact&theme=radical"/>
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julianamglhs/julianamglhs/output/github-contribution-grid-snake-dark.svg">
